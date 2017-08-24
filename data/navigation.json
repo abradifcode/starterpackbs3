@@ -1,0 +1,8 @@
+{
+  "navPages": {
+    "Home" : "main.html",
+    "About" : "about.html",
+    "Services" : "services.html",
+    "Contacts" : "contact.html"
+  }
+}
