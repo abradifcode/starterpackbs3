@@ -1,8 +1,8 @@
 {
-  "name": "startPack",
+  "name": "starterPack",
   "version": "0.1.0",
-  "description": "Startpack with pug sass bootstrap-3 etc",
-  "main": "gulpfile.js",
+  "description": "Starterpack with pug sass bootstrap-3 etc",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
